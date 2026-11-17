@@ -1,0 +1,16 @@
+COPY FREEDOM 1.1.0
+
+Extract this whole ZIP before installing. Keep all files together.
+
+WINDOWS: Double-click Install Copy Freedom.cmd
+MAC:     Double-click Install Copy Freedom.command
+
+After installation, restart Photoshop when convenient.
+Open Window > Extensions (Legacy) > Copy Freedom.
+
+MAC PERMISSION DENIED?
+Open Terminal, type bash followed by a space, drag
+Install Copy Freedom.command into Terminal, then press Return.
+
+Read README.md for requirements, security changes and full instructions.
+Mac native installation and paste have not yet been tested on a real Mac.

@@ -2,6 +2,17 @@
 
 Four local Photoshop copy tools, extracted from FNX img freedom into an independent panel.
 
+## Which file do I double-click?
+
+Extract the entire ZIP first, then choose the launcher for your computer:
+
+| Computer | Double-click |
+| --- | --- |
+| Windows | **Install Copy Freedom.cmd** |
+| Mac | **Install Copy Freedom.command** |
+
+Both launchers are included in the same package. After installation, restart Photoshop and open **Window > Extensions (Legacy) > Copy Freedom**. Keep the extracted folder together; the launcher needs the other files beside it.
+
 ## Install on Windows
 
 1. [Download the ZIP](https://github.com/atrasa/copy-freedom/archive/refs/heads/main.zip).
