@@ -1,6 +1,6 @@
 $ErrorActionPreference = 'Stop'
 try {
- $files = @('index.html','style.css','panel.js','clipboard-image.ps1','CSXS','host')
+ $files = @('index.html','style.css','panel.js','clipboard-image.ps1','clipboard-image-mac.js','CSXS','host')
  foreach ($file in $files) { if (-not (Test-Path -LiteralPath (Join-Path $PSScriptRoot $file))) { throw 'Extract the entire ZIP before running this installer.' } }
  $extensions = Join-Path $env:APPDATA 'Adobe\CEP\extensions'
  $target = Join-Path $extensions 'com.finex.copyfreedom'

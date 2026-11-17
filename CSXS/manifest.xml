@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ExtensionManifest Version="7.0" ExtensionBundleId="com.finex.copyfreedom" ExtensionBundleVersion="1.0.0" ExtensionBundleName="Copy Freedom">
-<ExtensionList><Extension Id="com.finex.copyfreedom.panel" Version="1.0.0"/></ExtensionList>
+<ExtensionManifest Version="7.0" ExtensionBundleId="com.finex.copyfreedom" ExtensionBundleVersion="1.1.0" ExtensionBundleName="Copy Freedom">
+<ExtensionList><Extension Id="com.finex.copyfreedom.panel" Version="1.1.0"/></ExtensionList>
 <ExecutionEnvironment><HostList><Host Name="PHXS" Version="[25.0,99.9]"/><Host Name="PHSP" Version="[25.0,99.9]"/></HostList><LocaleList><Locale Code="All"/></LocaleList><RequiredRuntimeList><RequiredRuntime Name="CSXS" Version="11.0"/></RequiredRuntimeList></ExecutionEnvironment>
 <DispatchInfoList><Extension Id="com.finex.copyfreedom.panel"><DispatchInfo><Resources><MainPath>./index.html</MainPath></Resources><Lifecycle><AutoVisible>true</AutoVisible></Lifecycle><UI><Type>Panel</Type><Menu>Copy Freedom</Menu><Geometry><Size><Height>310</Height><Width>320</Width></Size><MinSize><Height>260</Height><Width>280</Width></MinSize><MaxSize><Height>2400</Height><Width>3200</Width></MaxSize></Geometry></UI></DispatchInfo></Extension></DispatchInfoList>
 </ExtensionManifest>
